@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:multnomah-cache
 EELAYER 30 0
 EELAYER END
 $Descr B 17000 11000
@@ -350,17 +349,6 @@ F 3 "" H 5750 4700 50  0001 C CNN
 	1    5750 4700
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector_Generic:Conn_02x03_Counter_Clockwise J1
-U 1 1 5D78BF0C
-P 4350 5300
-F 0 "J1" H 4400 5617 50  0000 C CNN
-F 1 "Conn_02x03_Counter_Clockwise" H 4400 5526 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_2x03_P1.00mm_Vertical_SMD" H 4350 5300 50  0001 C CNN
-F 3 "~" H 4350 5300 50  0001 C CNN
-	1    4350 5300
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4650 5200 5150 5200
 Wire Wire Line
@@ -384,7 +372,7 @@ U 1 1 286826BC
 P 1800 5100
 F 0 "U1" H 1300 5500 59  0000 L BNN
 F 1 "Tiny85-20-SMT" H 1300 4700 59  0000 L BNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 1800 5100 50  0001 C CNN
+F 2 "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" H 1800 5100 50  0001 C CNN
 F 3 "" H 1800 5100 50  0001 C CNN
 	1    1800 5100
 	1    0    0    -1  
@@ -910,4 +898,15 @@ F 3 "" H 5950 5450 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	12200 3200 12800 3200
+$Comp
+L Connector_Generic:Conn_02x03_Counter_Clockwise J1
+U 1 1 5D78BF0C
+P 4350 5300
+F 0 "J1" H 4400 5617 50  0000 C CNN
+F 1 "Conn_02x03_Counter_Clockwise" H 4400 5526 50  0000 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_2x03_P1.00mm_Vertical_SMD" H 4350 5300 50  0001 C CNN
+F 3 "~" H 4350 5300 50  0001 C CNN
+	1    4350 5300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
