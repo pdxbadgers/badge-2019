@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/you/Boards/badge-2019/multnomah.sch)
-    (date "Sun 01 Sep 2019 08:14:51 PM PDT")
+    (date "Sun 01 Sep 2019 08:56:24 PM PDT")
     (tool "Eeschema 5.1.4")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -232,7 +232,7 @@
       (tstamp 5DA5ACD9))
     (comp (ref X2)
       (value Badgelife_sao_connector_v169bis)
-      (footprint BSidesPDX2019:Badgelife-SAOv169-SAO-2x3)
+      (footprint BSidesPDX2019:Badgelife-SAOv169-BADGE-2x3)
       (libsource (lib badgelife_shitty_addon_v169bis) (part Badgelife_sao_connector_v169bis) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5DA8FAD6))
@@ -252,7 +252,7 @@
       (tstamp 5D9AE609))
     (comp (ref X1)
       (value Badgelife_sao_connector_v169bis)
-      (footprint BSidesPDX2019:Badgelife-SAOv169-SAO-2x3)
+      (footprint BSidesPDX2019:Badgelife-SAOv169-BADGE-2x3)
       (libsource (lib badgelife_shitty_addon_v169bis) (part Badgelife_sao_connector_v169bis) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D6981B3))

@@ -1,4 +1,4 @@
-(module 1204_SIDE_VIEW_LED (layer F.Cu) (tedit 5D6C86B7)
+(module 1204_SIDE_VIEW_LED (layer F.Cu) (tedit 5D6C94FA)
   (fp_text reference REF** (at -3.48 0.02 90) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.15)))
   )
