@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name badgelife_shitty_addon_v169bis)(type Legacy)(uri ${KIPRJMOD}/BSidesPDX2019.pretty/badgelife_shitty_addon_v169bis.lib)(options "")(descr ""))
+  (lib (name JS202011SCQN)(type Legacy)(uri ${KIPRJMOD}/BSidesPDX2019.pretty/JS202011SCQN.lib)(options "")(descr ""))
 )
