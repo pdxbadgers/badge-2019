@@ -1,7 +1,6 @@
-Designator,Quantity,Digikey Part #,Package,Type,Description
-D1-D24,24,160-2032-1-ND,1206,SMT,blue side view LED
-SW1,1,401-2002-1-ND‎,,SMT,slide switch DPDT
-U1,1,ATTINY85-20SURDKR-ND,8-SOIC,SMT,microcontroller
-R1-R2,2,RMCF0805JT10M0DKR-ND,0805,SMT,resistor
-R3-R6,4,311-56ERDKR-ND,1206,SMT,resistor
-BT1,1,952-1735-6-ND,,SMT,cr2032 battery holder
+"Designator,Quantity,Digikey Part #,Package,Type,Description"
+"D1-D24,24,160-2032-1-ND,1206,SMT,blue side view LED"
+"SW1,1,401-2002-1-ND‎,,SMT,slide switch DPDT"
+"U1,1,ATTINY85-20SURDKR-ND,8-SOIC,SMT,microcontroller"
+"R1-R4,4,311-56ERDKR-ND,1206,SMT,resistor"
+"BT1,1,952-1735-6-ND,,SMT,cr2032 battery holder"
